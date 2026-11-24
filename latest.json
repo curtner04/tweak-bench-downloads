@@ -1,8 +1,8 @@
 {
     "Schema":  1,
     "App":  "TB",
-    "Version":  "1.2.1",
-    "DownloadUrl":  "https://github.com/curtner04/tweak-bench-downloads/releases/download/tweak-bench-1.2.1-f761132e13928169/TB-Setup.exe",
-    "SHA256":  "f761132e139281691c808a6f8a3eacefbe44420cdc04ef4fae4bbb1ec013d37c",
-    "Bytes":  2499879
+    "Version":  "1.3.0",
+    "DownloadUrl":  "https://github.com/curtner04/tweak-bench-downloads/releases/download/tweak-bench-1.3.0-42a5a9e7ff38cc95/TB-Setup.exe",
+    "SHA256":  "42a5a9e7ff38cc953e276b6badc3254c7c05fc54298a211f762e2aad230b2e06",
+    "Bytes":  2521065
 }
